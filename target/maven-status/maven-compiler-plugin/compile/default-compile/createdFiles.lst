@@ -1,0 +1,6 @@
+com\example\ecommerce\EcommerceApplication.class
+com\example\ecommerce\App.class
+com\example\ecommerce\repositories\ProductRepository.class
+com\example\ecommerce\controllers\ProductController.class
+com\example\ecommerce\models\Product.class
+com\example\ecommerce\services\ProductService.class
